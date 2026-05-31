@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.card {
+    background: #1e293b;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+}
+
+img {
+    width: 100%;
+    max-width: 640px;
+    border-radius: 10px;
+    border: 2px solid #334155;
+}
+
+p {
+    font-size: 18px;
+}
